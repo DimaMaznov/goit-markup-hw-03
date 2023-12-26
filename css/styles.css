@@ -212,3 +212,23 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
+
+/* ***************HW   3*************************** */
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+}
+
+img {
+    display: block;
+}
+
+.container {}
