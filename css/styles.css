@@ -13,7 +13,7 @@ ul {
 }
 
 /****************** HEADER**/
-.web {
+.webi {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -22,6 +22,7 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-right: 76px
 }
 
 .studio {
@@ -33,7 +34,6 @@ ul {
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    margin-right: 76px;
 }
 
 .nav {
